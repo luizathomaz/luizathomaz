@@ -1,6 +1,6 @@
 ## Olá! Me chamo Luiza Thomaz, prazer!
 
-![Luiza's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizathomaz&show_icons=true&theme=onedark&hide=prs,issues)
+![Luiza's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizathomaz&show_icons=true&theme=onedark&hide=prs,issues,contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizathomaz&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 <!--https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance-->
 
